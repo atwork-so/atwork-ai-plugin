@@ -1,0 +1,15 @@
+{
+  "name": "atwork",
+  "displayName": "Atwork",
+  "version": "1.0.0",
+  "description": "Work with your Atwork sheets, tasks and pages from Claude: status updates, project plans, pipeline reviews and new workspaces built from a description.",
+  "author": {
+    "name": "Atwork",
+    "url": "https://atwork.so"
+  },
+  "homepage": "https://atwork.so/mcp",
+  "privacyPolicyUrl": "https://atwork.so/privacy",
+  "repository": "https://github.com/atwork-so/atwork-ai-plugin",
+  "license": "MIT",
+  "keywords": ["atwork", "tasks", "project management", "crm", "workspace"]
+}
